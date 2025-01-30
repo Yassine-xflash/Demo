@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 29 14:50:17 UTC 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-018f-2a55-cb76-00000cf5beb8 
+on database directory /home/oracle/labs/db/productDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a2e4553 
+Loaded from file:/home/oracle/labs/derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.1+12-LTS-29
+user.dir=/home/oracle/labs/demo/ProductManagement
+os.name=Linux
+os.arch=amd64
+os.version=4.14.35-2047.505.4.3.el7uek.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
